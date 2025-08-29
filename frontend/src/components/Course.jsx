@@ -16,6 +16,8 @@ const Course = () => {
       setBook(res.data);
     } catch (error) {
       console.log(error);
+      console.log(error);
+      
       
     }
   }
