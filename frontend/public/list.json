@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Book",
+    "title": "Moby Dick",
+    "price": 0,
+    "category": "Free",
+    "image": "https://i.pinimg.com/736x/10/25/31/10253170f62c66d9488f08d5f8f2b08b.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Story Book",
+    "title": "Alice in Wonderland",
+    "price": 0,
+    "category": "Free",
+    "image": "https://i.pinimg.com/736x/77/4e/3f/774e3fa9b3a79e2e91e5f8429f5e8a8e.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Fantasy Book",
+    "title": "Percy Jackson",
+    "price": 0,
+    "category": "Free",
+    "image": "https://i.pinimg.com/736x/45/2a/2c/452a2c874f2d38e92b9028d75b5a04de.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Adventure Book",
+    "title": "Treasure Island",
+    "price": 0,
+    "category": "Free",
+    "image": "https://i.pinimg.com/736x/6a/4c/9d/6a4c9d896c49e5b3e97b3d4166ff1874.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Knowledge Book",
+    "title": "A Brief History of Time",
+    "price": 200,
+    "category": "Knowledge",
+    "image": "https://i.pinimg.com/736x/1b/b0/44/1bb044e0e4b68c6a8f2b93d94e4b2c40.jpg"
+  },
+  {
+  "id": 6,
+  "name": "Novel Book",
+  "title": "The Alchemist",
+  "price": 0,
+  "category": "Free",
+  "image": "https://i.pinimg.com/736x/f1/55/52/f155521e24b2b0a737f0dcd3af55d3fb.jpg"
+},
+{
+  "id": 7,
+  "name": "Philosophy Book",
+  "title": "Meditations",
+  "price": 0,
+  "category": "Free",
+  "image": "https://i.pinimg.com/736x/1a/1e/64/1a1e64b57c9dc1f2c84b7f89f9c9f91e.jpg"
+},
+{
+  "id": 8,
+  "name": "Science Book",
+  "title": "The Selfish Gene",
+  "price": 0,
+  "category": "Free",
+  "image": "https://i.pinimg.com/736x/5c/6d/94/5c6d9406dd4b4c0f6b93402f2e9f5d2f.jpg"
+},
+{
+  "id": 9,
+  "name": "Drama Book",
+  "title": "Hamlet",
+  "price": 0,
+  "category": "Free",
+  "image": "https://i.pinimg.com/736x/ba/0d/6a/ba0d6ac2e5c25db42e5d431f8a25c87b.jpg"
+},
+{
+  "id": 10,
+  "name": "Mystery Book",
+  "title": "Sherlock Holmes",
+  "price": 0,
+  "category": "Free",
+  "image": "https://i.pinimg.com/736x/3b/fc/58/3bfc581ad88ddf4fd7f5c5a53c8a2e7c.jpg"
+},
+{
+  "id": 11,
+  "name": "History Book",
+  "title": "Sapiens",
+  "price": 0,
+  "category": "Free",
+  "image": "https://i.pinimg.com/736x/25/3a/14/253a144e7e1ad2fbb3d9b92499f9efb1.jpg"
+}
+
+
+]
