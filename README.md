@@ -7,11 +7,10 @@ Users can browse books, register/login, and admins can perform CRUD operations o
 ---
 
 ## ✨ Features
-- 👤 User Authentication (Register / Login with JWT)  
+- 👤 User Authentication (Register / Login )  
 - 📚 Book Management (Add, Update, Delete, View)  
 - 🔍 Search & Filter Books  
 - 🛒 Checkout System  
-- 🖥️ Admin Dashboard for managing books  
 
 ---
 
@@ -44,13 +43,15 @@ Bookstore/
 
 ## ⚙️ Installation & Setup
 
-### 1️⃣ Clone the Repository
+### 
+1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/kumar-aryan-s/bookstoreApp
 cd bookstore
 
 
 2️⃣ Backend Setup
+
 cd backend
 npm install
 
